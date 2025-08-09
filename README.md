@@ -199,4 +199,8 @@ Para reportar problemas o sugerencias:
 
 - Proyecto desarrollado por María Fernanda Hernández Solano.
 
+📱**Demostración del Proyecto:**
+
+- **Jugar:** https://maria925.github.io/Juego-Secreto/
+
 
